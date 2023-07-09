@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @heysammyleong
-- 👀 I’m interested in ...Science
-- 🌱 I’m currently learning ...Immunology, PhD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...samueliwei@gmail.com
+- 👀 I’m interested in Science
+- 🌱 I’m currently learning Immunology, PhD
+- 📫 How to reach me samueliwei@gmail.com
 
 <!---
 heysammyleong/heysammyleong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
